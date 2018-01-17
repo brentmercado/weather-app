@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/brentmercado/weather-app/issues"
   },
-  "homepage": "https://github.com/brentmercado/weather-app#readme"
+  "homepage": "https://github.com/brentmercado/weather-app#readme",
+  "dependencies": {
+    "request": "^2.83.0"
+  }
 }
